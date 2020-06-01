@@ -34,10 +34,10 @@ values
 # Courses
 replace into api_course (id, code, title, institution_id)
 values
-  (1, 'AEROSPC 1A 001', 'Foundations of the U.S. Air Force', 2),
-  (2, 'AEROSPC 2B 001', 'The Evolution of Air and Space Power', 2),
-  (3, 'MKTG 691', 'PhD Directed Reading', 1),
-  (4, 'MKTG 692', 'PhD Dissertation Research', 1);
+  (1, 'AEROSPC 1A 001', 'Foundations of the U.S. Air Force', 1),
+  (2, 'AEROSPC 2B 001', 'The Evolution of Air and Space Power', 1),
+  (3, 'MKTG 691', 'PhD Directed Reading', 2),
+  (4, 'MKTG 692', 'PhD Dissertation Research', 2);
 
 
 # Schedules
